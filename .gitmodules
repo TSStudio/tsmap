@@ -1,0 +1,12 @@
+[submodule "ds-pj-frontend"]
+	path = ds-pj-frontend
+	url = https://github.com/TSStudio/ds-pj-frontend.git
+[submodule "ds-pj"]
+	path = ds-pj
+	url = https://github.com/TSStudio/ds-pj.git
+[submodule "ds-pj-backend"]
+	path = ds-pj-backend
+	url = https://github.com/TSStudio/ds-pj-backend.git
+[submodule "ds-pj-renderer"]
+	path = ds-pj-renderer
+	url = https://github.com/TSStudio/ds-pj-renderer.git
